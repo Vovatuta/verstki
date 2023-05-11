@@ -1,0 +1,63 @@
+                                                  How the Web Works
+ 1 Introduction to Web
+
+ 2 OSI Model
+
+ 3 HTTP
+
+ 4 Encryption
+
+ 5 Web API
+
+ 6 Security in the Web
+                                    
+
+
+
+
+                                         
+                                                  Javascript Basics
+1 Introduction
+
+2 Main Concepts
+
+3 Data Types
+
+4 Numbers
+
+5 Strings
+
+6 Boolean
+
+7 Functions
+
+8 Conditional Operators
+
+9 Loops
+
+10 Working With Strings
+
+11 Array Basics
+                                        
+                                                
+
+                                                    Javascript Basics Extended
+1 Code Style
+
+2 Debugging
+
+3 Working With Numbers
+
+4 Loops in Details
+
+5 Working With Strings
+
+6 Functions Revisited
+
+7 Switch
+
+8 Type Conversion
+
+9 Logical Operators
+
+10 Object Basics
